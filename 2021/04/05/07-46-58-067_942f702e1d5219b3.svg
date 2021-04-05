@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="922px" height="28px" viewbox="0 0 922 28" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="crown" transform="translate(443.5 0)">
+    <path d="M0 1.3624L20.7248 1.3624L20.7248 0L0 0L0 1.3624Z" transform="translate(7 26)" id="Fill-1" fill="#9C8038" fill-rule="evenodd" stroke="none" />
+    <path d="M17.1552 0L10.3504 13.3664L0 8.312L6.5584 24.1104L27.7512 24.1104L34.3104 8.312L23.9592 13.3664L17.1552 0Z" id="Fill-2" fill="#9C8038" fill-rule="evenodd" stroke="none" />
+  </g>
+  <g id="Linien" transform="translate(0.5 17)">
+    <path d="M426 0.5L0.5 0.5" id="Line-3" fill="none" fill-rule="evenodd" stroke="#9C8038" stroke-width="1" stroke-linecap="square" />
+    <path d="M426.5 0.5L9.64333e-15 0.5" transform="translate(494 0)" id="Line-3" fill="none" fill-rule="evenodd" stroke="#9C8038" stroke-width="1" stroke-linecap="square" />
+  </g>
+</svg>
